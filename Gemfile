@@ -27,6 +27,7 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'spring',        group: :development
 
 gem 'normalize-rails'
+gem 'tiny_tds', group: :production
 gem 'activerecord-sqlserver-adapter', group: :production
 
 # Use ActiveModel has_secure_password
